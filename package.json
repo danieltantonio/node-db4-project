@@ -4,7 +4,8 @@
   "description": "Follow these steps to set up and work on your project:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "server": "nodemon index"
   },
   "repository": {
     "type": "git",
